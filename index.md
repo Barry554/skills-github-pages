@@ -8,7 +8,7 @@ Sharing insights and stories.
 
 ## Featured Post
 
-![Featured post image](assets/images/featured.jpg)
+![Featured post image](481320859_962471189319696_1744189329793138328_n.jpg)
 
 **[Title of the Featured Post](posts/featured-post.md)**
 
