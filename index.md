@@ -1,9 +1,9 @@
 ---
 title: Welcome to My Blog
----
+
 
 # Welcome to My Blog
-
+quick brown dog jumps over lazy fox---
 Sharing insights and stories.
 
 ## Featured Post
