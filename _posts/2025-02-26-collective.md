@@ -1,1 +1,4 @@
-collective security
+---
+title: "COLLECTIVE"
+date: 2025-02-26
+---
